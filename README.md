@@ -8,6 +8,7 @@
 
 **Focus Areas:** SQL Injection, Hash Cracking, Web Enumeration
 
+⚠️ **Note:** This writeup covers only the initial foothold and partial exploitation. Root privilege escalation could not be completed due to machine instability.
 ---
 
 ## 🛰️ Reconnaissance
