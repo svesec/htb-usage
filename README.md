@@ -1,4 +1,4 @@
-# 🧠 HTB Machine: Usage (Retired)
+## 🧠 HTB Machine: Usage (Retired) – Partial Writeup
 
 **Difficulty:** Easy  
 
