@@ -47,7 +47,7 @@ Open ports:
 - 80/tcp – nginx 1.18.0, redirecting to usage.htb  
 
 **Figure 1 – Nmap scan showing SSH and HTTP open**  
-![](images/01_nmap_scan.png)
+![](images/01_nmap.png)
 
 ---
 
